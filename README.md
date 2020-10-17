@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+# Refactored starter code for Horiseon marketing website. Fixed broken links, added title, made CSS more efficient, organized CSS to align with HTML, added comments/descriptions to both HTML and CSS document.
