@@ -1,2 +1,2 @@
-# Refactored starter code for Horiseon marketing website. Fixed broken links, added title, made CSS more efficient, organized CSS to align with HTML, added comments/descriptions to both HTML and CSS document. 
+# Refactored starter code for Horiseon marketing website. Increased accessibility by adding alt and article elements. Fixed broken links, added title, made CSS more efficient, organized CSS to align with HTML, added comments/descriptions to both HTML and CSS document. 
 ![Mock up of Horiseon website](./assets/horiseon-mock-up.png?raw=true "Mock up of Horiseon website")
